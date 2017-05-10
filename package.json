@@ -1,0 +1,28 @@
+{
+  "name": "@toycode/mastodon-auth-cli",
+  "version": "0.1.0",
+  "bin": {
+    "mastodon-auth": "bin/mastodon-auth"
+  },
+  "description": "CLI program to get access token for  mastodon api.",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "inquirer": "^3.0.6",
+    "mastodon-api": "^1.2.0",
+    "oauth": "^0.9.15",
+    "opn": "^5.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0",
+    "mocha-sinon": "^2.0.0",
+    "nock": "^9.0.13",
+    "rewire": "^2.5.2"
+  },
+  "scripts": {
+    "test": "mocha",
+    "mastodon-auth": "./bin/mastodon-auth"
+  },
+  "author": "Hiroshi Okada <okadahiroshi@miobox.jp>",
+  "license": "MIT"
+}
