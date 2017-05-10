@@ -23,6 +23,10 @@
     "test": "mocha",
     "mastodon-auth": "./bin/mastodon-auth"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HiroshiOkada/mastodon-auth-cli.git"
+  },
   "author": "Hiroshi Okada <okadahiroshi@miobox.jp>",
   "license": "MIT"
 }
