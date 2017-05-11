@@ -1,6 +1,7 @@
 {
   "name": "@toycode/mastodon-auth-cli",
   "version": "1.0.1",
+  "preferGlobal": true,
   "bin": {
     "mastodon-auth": "bin/mastodon-auth"
   },
@@ -26,6 +27,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/HiroshiOkada/mastodon-auth-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HiroshiOkada/mastodon-auth-cli/issues"
   },
   "author": "Hiroshi Okada <okadahiroshi@miobox.jp>",
   "license": "MIT"
