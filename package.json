@@ -1,11 +1,14 @@
 {
   "name": "@toycode/mastodon-auth-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "preferGlobal": true,
   "bin": {
     "mastodon-auth": "bin/mastodon-auth"
   },
   "description": "CLI program to get access token for  mastodon api.",
+  "keywors": [
+    "mastodon", "mastodn-api", "cli", "oauth"
+  ],
   "dependencies": {
     "commander": "^2.9.0",
     "inquirer": "^3.0.6",
