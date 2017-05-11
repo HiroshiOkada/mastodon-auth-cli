@@ -5,7 +5,7 @@ CLI program to get access token for [Mastodon](https://github.com/tootsuite/mast
 ## Installing
 
 ```
-npm install mastodon-auth-cli
+npm install @toycode/mastodon-auth-cli
 ```
 
 ## Usage
@@ -42,7 +42,7 @@ MIT
 ## インストール
 
 ```
-npm install mastodon-auth-cli
+npm install @toycode/mastodon-auth-cli
 ```
 
 ## 使い方
