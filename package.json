@@ -1,6 +1,6 @@
 {
   "name": "@toycode/mastodon-auth-cli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "preferGlobal": true,
   "bin": {
     "mastodon-auth": "bin/mastodon-auth.js"
