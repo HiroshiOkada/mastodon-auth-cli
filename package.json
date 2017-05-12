@@ -6,7 +6,7 @@
     "mastodon-auth": "bin/mastodon-auth"
   },
   "description": "CLI program to get access token for  mastodon api.",
-  "keywors": [
+  "keywords": [
     "mastodon", "mastodn-api", "cli", "oauth"
   ],
   "dependencies": {
