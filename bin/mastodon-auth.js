@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-"user strict";
+"use strict";
 
 const msg = require('../lib/message');
 const registerApp = require('../lib/register-app');

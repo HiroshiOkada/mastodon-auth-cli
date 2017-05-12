@@ -3,7 +3,7 @@
   "version": "1.0.4",
   "preferGlobal": true,
   "bin": {
-    "mastodon-auth": "bin/mastodon-auth"
+    "mastodon-auth": "bin/mastodon-auth.js"
   },
   "description": "CLI program to get access token for  mastodon api.",
   "keywords": [
@@ -25,7 +25,7 @@
   },
   "scripts": {
     "test": "mocha",
-    "mastodon-auth": "./bin/mastodon-auth"
+    "mastodon-auth": "node ./bin/mastodon-auth.js"
   },
   "repository": {
     "type": "git",
