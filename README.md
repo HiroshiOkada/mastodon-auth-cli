@@ -1,5 +1,7 @@
 # mastodon-auth-cli
 
+This package is no longer maintained.
+
 CLI program to get access token for [Mastodon](https://github.com/tootsuite/mastodon/) API.
 
 ## Installing
@@ -74,4 +76,3 @@ mastodon-auth -h
 ## ライセンス
 
 MIT
-
